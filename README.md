@@ -6,4 +6,5 @@
 "이름/project1" branch 생성
 
 이름-project1 디렉토리 생성
-ㄴ main.c (문제 제출 파일)
+
+- main.c (문제 제출 파일)
